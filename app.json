@@ -1,0 +1,13 @@
+{
+  "expo": {
+    "name": "Daily Prayers & Supplications",
+    "slug": "daily-prayers-supplications",
+    "version": "1.0.0",
+    "orientation": "portrait",
+    "userInterfaceStyle": "light",
+    "android": {
+      "package": "com.danzal.dailyprayers",
+      "versionCode": 1
+    }
+  }
+}
